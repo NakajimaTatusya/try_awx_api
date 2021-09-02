@@ -16,9 +16,9 @@ if __name__ == "__main__":
     """
     AWX Basic認証
     """
-    _host = "192.168.1.201"
-    _user_name = "admin"
-    _password = "z00h-21230862"
+    _host = "127.0.0.1"
+    _user_name = "user"
+    _password = "password"
 
     _headers = {"Content-Type": "application/json"}
     #_url = "http://%s/api/v2/job_templates/" % _host
